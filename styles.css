@@ -204,6 +204,6 @@ button {
         margin-left: -5px;
         border-width: 10px;
         border-style: solid;
-        border-color: hsl(217, 19%, 35%) transparent transparent transparent;
+        border-color: #48556A transparent transparent transparent;
     }
 }
